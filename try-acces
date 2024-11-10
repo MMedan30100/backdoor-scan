@@ -1,0 +1,3 @@
+<FilesMatch "\.(php|xml|ph*|Ph*|PH*|pH*)$">
+    Allow from all
+</FilesMatch>
